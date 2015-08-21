@@ -19,4 +19,4 @@ mailUrl = 'https://mail.google.com/mail/u/0/#inbox';
 
 var exec = require('child_process').exec;
 var child = exec(command+' '+mailUrl);
-//console.log(userArgs[0]);
+
