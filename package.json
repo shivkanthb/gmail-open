@@ -1,0 +1,20 @@
+{
+  "name": "gmail-open",
+  "version": "1.0.0",
+  "description": "opens multiple signed in gmail accounts easily",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gmail",
+    "open",
+    "multiple",
+    "accounts"
+  ],
+  "preferGlobal":true,
+  "bin":{
+    "gmail":"index.js"
+  },
+  "author": "shiv",
+  "license": "ISC"
+}
