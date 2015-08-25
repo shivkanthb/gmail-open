@@ -10,11 +10,11 @@ Its important you install it globally. (Hence the -g)
 
 ##Usage
 
-```gmail 0
-opens first linked gmail account
+``gmail 0``
+*opens first linked gmail account*
 
-```gmail 1
-opens second linked gmail account
+``gmail 1``
+*opens second linked gmail account*
 
 
 ###Note: 
